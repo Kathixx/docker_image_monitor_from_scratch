@@ -1,8 +1,9 @@
 # Docker Image Monitor
-This repository is based on the tutorial [Deep research agent with Langchain](https://academy.langchain.com/courses/deep-research-with-langgraph).
+This repository builds the core components of a agentic docker image monitor from scratch using LangGraph. 
+This code is based on the tutorial [Deep research agent with Langchain](https://academy.langchain.com/courses/deep-research-with-langgraph).
 
 ## Repository Structure
-This repository builds the core components of a agentic docker image monitor from scratch using LangGraph. The 3 notebooks demonstrate different components.
+The 3 notebooks demonstrate different components.
 
 ```
 docker_image_monitor/
